@@ -4,12 +4,12 @@ Proyecto de Analítica Predictiva Aplicada a los Negocios
 INTEP Roldanillo Valle | Postgrado Especialización en Big Data y Analítica de Datos| 2026
 
 ## Equipo
-- [Nombre del integrante 1]
-- [Nombre del integrante 2]
-- [Nombre del integrante 3]
+- Carlos Arturo Agudelo
+- Jefferson Balcazar Gomez
+- Milton Vanegas Delgado
 
 ## Descripción
-[Breve descripción del problema de negocio]
+Las ventas del ganado en aproximadamente un 90% de los casos se realizan subastando el kilo de cada Lote, es por ello que decidimos enfocar la analitica predictiva de dichos precios, tomando como referencia aproximadamente 9 meses de datos de las ventas, contando con datos relevantes como el peso, la categoria(sexo), la procedencia
 
 ## Archivos
 - `Notebook.ipynb` — Código Python completo
