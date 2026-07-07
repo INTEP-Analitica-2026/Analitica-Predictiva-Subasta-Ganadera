@@ -14,7 +14,8 @@ Las ventas del ganado en aproximadamente un 90% de los casos se realizan subasta
 ## Archivos
 - `Analitica__Predictiva_Subasta_Ganadera_Notebook.ipynb` — Código Python completo
 - `Analitica_Predictiva_Subasta_Ganadera_Presentacion.pptx` — Diapositivas de la exposición
-- `Analitica_Predictiva_Subasta_Ganadera_Informe_Ejecutivo.pdf` — Informe ejecutivo para el gerente
+- `Analitica_Predictiva_Subasta_Ganadera_Informe_Ejecutivo.pdf` — Informe ejecutivo para gerencia
+- `P05-FT-06-BIG_DATA_SUBASTA.pdf` — Propuesta con formato Intep para repositorio institucional
 - `Analitica_Predictiva_Subasta_Ganadera_Limpio.csv` — Dataset
 
 ## Modelos usados
