@@ -12,13 +12,13 @@ INTEP Roldanillo Valle | Postgrado Especialización en Big Data y Analítica de 
 Las ventas del ganado en aproximadamente un 90% de los casos se realizan subastando el kilo de cada Lote, es por ello que decidimos enfocar la analitica predictiva de dichos precios, tomando como referencia aproximadamente 9 meses de datos de las ventas, contando con datos relevantes como el peso, la categoria(sexo), la procedencia
 
 ## Archivos
-- `Analitica_Predictiva_Subasta_Ganadera_Presentacion.ipynb` — Código Python completo
+- `Analitica__Predictiva_Subasta_Ganadera_Notebook.ipynb` — Código Python completo
 - `Analitica_Predictiva_Subasta_Ganadera_Presentacion.pptx` — Diapositivas de la exposición
-- `Analitica_Predictiva_Subasta_Ganadera_Presentacion.pdf` — Informe ejecutivo para el gerente
-- `Analitica_Predictiva_Subasta_Ganadera_Presentacion.csv` — Dataset
+- `Analitica_Predictiva_Subasta_Ganadera_Informe_Ejecutivo.pdf` — Informe ejecutivo para el gerente
+- `Analitica_Predictiva_Subasta_Ganadera_Limpio.csv` — Dataset
 
 ## Modelos usados
-- Regresion lineal (Simple y Multiplpe)
+- Regresion lineal (Simple y Multiple)
 - Series Temporales (Holt-Wimters)
 - Arbol de desicion
 - K-Means (Clustering)
